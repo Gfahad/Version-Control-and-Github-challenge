@@ -1,0 +1,3 @@
+A terminal is a way to perform computer tasks using commands 
+Git is a local while Github is online based
+To  manage and share our work with other people
